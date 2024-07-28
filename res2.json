@@ -1,0 +1,86 @@
+{
+    "_id": "60afd6efffedb81be496c331",
+    "date": "2021-05-27T17:29:19.967Z",
+    "chkDate": "2021-05-27T17:29:19.967Z",
+    "agTime": 28,
+    "sxid": "2021/5/OS/1",
+    "formSize": "S100",
+    "airTemp": 18.6,
+    "mixTemp": 22.9,
+    "formNo": "65",
+    "thermo": "WAW/T3",
+    "testCon": 150,
+    "WZ": "069069069",
+    "sCategory": true,
+    "loc": "Strop",
+    "locDesc": "strop X1, kondygnacja +3",
+    "rec": {
+        "agTime": 56,
+        "clX": [
+            "XC3",
+            "XD1",
+            "XA1",
+            "XS2",
+            "XF1"
+        ],
+        "_id": "60ad62edab81112124d76b1d",
+        "recName": "37C5/W8",
+        "clS": "C30/37",
+        "con": "S4",
+        "clW": "W8",
+        "cert": true,
+        "comments": "test put 2",
+        "maker": {
+            "_id": "60ad5b90b204a212c4d58f37",
+            "name": "BestBet",
+            "address": "Betoniarzowie 6",
+            "postalcode": "02-211",
+            "city": "Warszawa",
+            "nip": "4443234567",
+            "category": "prod",
+            "__v": 0
+        },
+        "__v": 0
+    },
+    "client": {
+        "_id": "60ac2d1004d20d31500902e0",
+        "clName": "Budowa",
+        "clAddress": "Adres 3",
+        "clCity": "Warszawa",
+        "short": "Adres1",
+        "iniShort": "BA1",
+        "cid": "2021/WAW/ATRA/ADRES",
+        "contactname": "Kierownik",
+        "contactlastname": "Budowlany",
+        "contactTelNo": "226564345",
+        "company": {
+            "_id": "6026785623249b2748839a8a",
+            "name": "Atrabud",
+            "address": "Budowniczowie 21",
+            "postalcode": "71-380",
+            "city": "Warszawa",
+            "nip": "1112223334",
+            "category": "wyko",
+            "__v": 0
+        },
+        "user": {
+            "_id": "60ac2d1004d20d31500902e1",
+            "email": "KB@atrabud.test",
+            "__v": 0
+        },
+        "__v": 0
+    },
+    "user": {
+        "_id": "6026787b23249b2748839a8b",
+        "name": "CFB Laboratorium",
+        "address": "Potockich 9A",
+        "postalcode": "04-566",
+        "city": "Warszawa",
+        "nip": "5556667778",
+        "category": "labo",
+        "__v": 0
+    },
+    "createdAt": "2021-05-27T17:29:19.977Z",
+    "updatedAt": "2021-05-27T17:29:19.977Z",
+    "__v": 0
+}

@@ -1,0 +1,144 @@
+{
+    "odchStd": 0.1,
+    "niepewnosc": 0.5,
+    "_id": "60b16d6bf1a4b12d58da77fe",
+    "docDate": "2021-05-28T22:23:39.048Z",
+    "rid": "R1",
+    "sampling": {
+        "samples": [
+            {
+                "_id": "60b16b072894b332949e56a1",
+                "date": "2021-05-27T14:35:00.000Z",
+                "chkDate": "2021-05-27T19:02:07.978Z",
+                "agTime": 28,
+                "sxid": "2021/5/OS/4",
+                "formSize": "S100",
+                "airTemp": 17.3,
+                "mixTemp": 21.1,
+                "formNo": "67",
+                "thermo": "WAW/T3",
+                "laboTemp": 21.4,
+                "precForm": true,
+                "precSide": true,
+                "precUpDown": true,
+                "precPerpSide": true,
+                "precComm": "precision comment test",
+                "wymComm": "dimensions comment test",
+                "destSpeed": 0.8,
+                "destSpeedCheck": true,
+                "destComm": "strength test comment test",
+                "comm1": "additional comments test",
+                "testedBy": "Test Laborant",
+                "testCon": 140,
+                "WZ": "070069069",
+                "sCategory": true,
+                "loc": "słup",
+                "locDesc": "słup X22, kondygnacja +4",
+                "mass": 2.346,
+                "wymA": 100,
+                "wymB": 100.1,
+                "wymC": 100,
+                "destForce": 434.6,
+                "destResult": 40.22,
+                "rec": {
+                    "agTime": 28,
+                    "clX": [
+                        "XC3",
+                        "XD1",
+                        "XA1",
+                        "XS2",
+                        "XF1"
+                    ],
+                    "_id": "60ad6397ab81112124d76b1e",
+                    "recName": "37C4",
+                    "clS": "C30/37",
+                    "con": "S3",
+                    "cert": true,
+                    "comments": "test 2",
+                    "maker": {
+                        "_id": "60ad5b90b204a212c4d58f37",
+                        "name": "BestBet",
+                        "address": "Betoniarzowie 6",
+                        "postalcode": "02-211",
+                        "city": "Warszawa",
+                        "nip": "4443234567",
+                        "category": "prod",
+                        "__v": 0
+                    },
+                    "__v": 0
+                },
+                "client": {
+                    "_id": "60ac2d1004d20d31500902e0",
+                    "clName": "Budowa",
+                    "clAddress": "Adres 3",
+                    "clCity": "Warszawa",
+                    "short": "Adres1",
+                    "iniShort": "BA1",
+                    "cid": "2021/WAW/ATRA/ADRES",
+                    "contactname": "Kierownik",
+                    "contactlastname": "Budowlany",
+                    "contactTelNo": "226564345",
+                    "company": {
+                        "_id": "6026785623249b2748839a8a",
+                        "name": "Atrabud",
+                        "address": "Budowniczowie 21",
+                        "postalcode": "71-380",
+                        "city": "Warszawa",
+                        "nip": "1112223334",
+                        "category": "wyko",
+                        "__v": 0
+                    },
+                    "user": {
+                        "_id": "60ac2d1004d20d31500902e1",
+                        "email": "KB@atrabud.test",
+                        "__v": 0
+                    },
+                    "__v": 0
+                },
+                "user": {
+                    "_id": "6026787b23249b2748839a8b",
+                    "name": "CFB Laboratorium",
+                    "address": "Potockich 9A",
+                    "postalcode": "04-566",
+                    "city": "Warszawa",
+                    "nip": "5556667778",
+                    "category": "labo",
+                    "__v": 0
+                },
+                "createdAt": "2021-05-27T19:02:07.983Z",
+                "updatedAt": "2021-05-28T13:01:08.114Z",
+                "__v": 0
+            }
+        ],
+        "_id": "60b16af32894b332949e56a0",
+        "labrat": {
+            "_id": "60ad4d54d2896e1514767b29",
+            "pName": "Oskar",
+            "lastname": "Test1",
+            "iniShort": "TO",
+            "isAdmin": false,
+            "labo": {
+                "_id": "6026787b23249b2748839a8b",
+                "name": "CFB Laboratorium",
+                "address": "Potockich 9A",
+                "postalcode": "04-566",
+                "city": "Warszawa",
+                "nip": "5556667778",
+                "category": "labo",
+                "__v": 0
+            },
+            "user": {
+                "_id": "60ad4d54d2896e1514767b2a",
+                "email": "dev1@put.test",
+                "__v": 0
+            },
+            "__v": 0
+        },
+        "sid": "S2",
+        "comments": "sampling test 2",
+        "docDate": "2021-05-28T17:04:52.832Z",
+        "__v": 0
+    },
+    "comments": "report test",
+    "__v": 0
+}
